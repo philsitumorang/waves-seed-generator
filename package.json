@@ -1,0 +1,29 @@
+{
+  "name": "waves-seed-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "4.17.1",
+    "@waves/waves-api": "1.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philsitumorang/waves-seed-generator.git"
+  },
+  "keywords": [
+    "waves",
+    "seed",
+    "generator"
+  ],
+  "author": "Phil Situmorang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/philsitumorang/waves-seed-generator/issues"
+  },
+  "homepage": "https://github.com/philsitumorang/waves-seed-generator#readme"
+}
