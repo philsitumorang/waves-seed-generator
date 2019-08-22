@@ -13,4 +13,4 @@ $ node cli.js tesnet
 $ node cli.js mainnet
 ```
 
-3. Generate seed online http://seed-generator.waves-dapps.tech/testnet
+3. Generate seed online https://seed-generator.waves-dapps.tech/testnet
